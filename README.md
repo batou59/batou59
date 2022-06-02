@@ -1,7 +1,10 @@
 ### Hi there i am karim new in this world ;-) 👋
 
 
-<img src = "https://th.bing.com/th/id/R.153ddcc9fcb1cc1d139e3654aa5ddebb?rik=xGW5yRfMtLfSng&riu=http%3a%2f%2fkoreus.cdn.li%2fmedia%2f201412%2fchat-endormi-4.jpg&ehk=2uEDpzcUuA8sKzbGXgbT8%2bXu9iHVHwa91B%2ffNy8%2fGfo%3d&risl=&pid=ImgRaw&r=0" style = "align-items: center">
+  
+<p align="center">
+<img src = "https://th.bing.com/th/id/R.153ddcc9fcb1cc1d139e3654aa5ddebb?rik=xGW5yRfMtLfSng&riu=http%3a%2f%2fkoreus.cdn.li%2fmedia%2f201412%2fchat-endormi-4.jpg&ehk=2uEDpzcUuA8sKzbGXgbT8%2bXu9iHVHwa91B%2ffNy8%2fGfo%3d&risl=&pid=ImgRaw&r=0"/>
+  </p>
 
 
 
